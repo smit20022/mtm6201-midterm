@@ -1,0 +1,29 @@
+
+
+nav li {
+    display:flex ;
+    text-align: center;
+}
+
+h1 {
+    font:2.027rem;
+}
+h2 {
+    font: 1.802rem;
+
+}
+h3 {
+    font: 1.424rem;
+}
+p {
+    font: 1rem ;
+}
+
+.CoffeeHouse {
+    color:white;
+    background-image: url('../images/images/hero-background.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+
+}
